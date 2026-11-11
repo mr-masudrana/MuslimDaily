@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.MuslimDaily" parent="Theme.AppCompat.Light.NoActionBar" />
+
+    <!-- Shown while the app starts; switches to Theme.MuslimDaily afterwards -->
+    <style name="Theme.MuslimDaily.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/splash_background</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash_icon</item>
+        <item name="postSplashScreenTheme">@style/Theme.MuslimDaily</item>
+    </style>
+</resources>

@@ -1,0 +1,13 @@
+{
+  "practices": [
+    {
+      "id": "example-practice",
+      "title": { "en": "REPLACE_TITLE", "bn": "REPLACE_TITLE" },
+      "time": "20:00",
+      "weekdays": [5],
+      "hijriDays": [13, 14, 15],
+      "hijriMonths": [9],
+      "surah": 18
+    }
+  ]
+}

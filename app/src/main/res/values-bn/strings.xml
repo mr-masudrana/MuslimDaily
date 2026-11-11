@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Muslim Daily</string>
+    <string name="greeting">আসসালামু আলাইকুম</string>
+
+    <string name="tab_home">হোম</string>
+    <string name="tab_quran">কুরআন</string>
+    <string name="tab_ibadah">ইবাদত</string>
+    <string name="tab_settings">সেটিংস</string>
+
+    <string name="prayer_fajr">ফজর</string>
+    <string name="prayer_dhuhr">যোহর</string>
+    <string name="prayer_asr">আসর</string>
+    <string name="prayer_maghrib">মাগরিব</string>
+    <string name="prayer_isha">এশা</string>
+
+    <string name="next_prayer">পরবর্তী নামাজ</string>
+    <string name="time_left_hm">আর %1$s ঘণ্টা %2$s মিনিট বাকি</string>
+    <string name="time_left_m">আর %1$s মিনিট বাকি</string>
+    <string name="hijri_date">%1$s %2$s %3$s হিজরি</string>
+
+    <string name="error_no_data">নামাজের সময় লোড করা যায়নি। ইন্টারনেট সংযোগ দেখুন।</string>
+    <string name="retry">আবার চেষ্টা করুন</string>
+    <string name="default_location_note">ঢাকার সময় দেখানো হচ্ছে। সঠিক সময়ের জন্য লোকেশনের অনুমতি দিন।</string>
+    <string name="allow">অনুমতি দিন</string>
+
+    <string name="language">ভাষা</string>
+    <string name="language_en">English</string>
+    <string name="language_bn">বাংলা</string>
+
+    <string-array name="hijri_months">
+        <item>মুহাররম</item>
+        <item>সফর</item>
+        <item>রবিউল আউয়াল</item>
+        <item>রবিউস সানি</item>
+        <item>জমাদিউল আউয়াল</item>
+        <item>জমাদিউস সানি</item>
+        <item>রজব</item>
+        <item>শাবান</item>
+        <item>রমজান</item>
+        <item>শাওয়াল</item>
+        <item>জিলকদ</item>
+        <item>জিলহজ</item>
+    </string-array>
+
+    <string name="search_surah_hint">সূরা খুঁজুন…</string>
+    <string name="tab_surah">সূরা</string>
+    <string name="tab_bookmarks">বুকমার্ক</string>
+    <string name="last_read">সর্বশেষ পড়া</string>
+    <string name="continue_reading">চালিয়ে যান</string>
+    <string name="verses_count">%1$s আয়াত</string>
+    <string name="ayah_label">আয়াত %1$s</string>
+    <string name="no_bookmarks">এখনো কোনো বুকমার্ক নেই। যেকোনো আয়াতের বুকমার্ক আইকনে ট্যাপ করুন।</string>
+    <string name="no_results">কোনো সূরা পাওয়া যায়নি</string>
+    <string name="error_quran">লোড করা যায়নি। প্রতিটি সূরার জন্য একবার ইন্টারনেট লাগবে, এরপর অফলাইনেও চলবে।</string>
+    <string name="back">পিছনে</string>
+    <string name="bookmark">বুকমার্ক</string>
+
+    <string name="favorites">প্রিয়</string>
+    <string name="empty_category">এখনো কোনো কনটেন্ট যোগ করা হয়নি। যাচাইকৃত টেক্সট assets/dua/duas.json ফাইলে যোগ করুন।</string>
+    <string name="no_favorites">এখনো কোনো প্রিয় নেই। যেকোনো দোয়া বা যিকিরের হার্ট আইকনে ট্যাপ করুন।</string>
+    <string name="repeat_times">%1$s বার পড়ুন</string>
+    <string name="counter_hint">গুনতে ট্যাপ করুন</string>
+    <string name="reset">রিসেট</string>
+    <string name="reference_label">সূত্র: %1$s</string>
+    <string name="share">শেয়ার</string>
+    <string name="favorite">প্রিয়তে যোগ করুন</string>
+    <string name="not_found">পাওয়া যায়নি</string>
+
+    <string name="calendar_title">হিজরি ক্যালেন্ডার</string>
+    <string name="view_calendar">হিজরি ক্যালেন্ডার দেখুন</string>
+    <string name="agenda_today">আজকের এজেন্ডা</string>
+    <string name="agenda_empty">এই দিনে কিছু নির্ধারিত নেই।</string>
+    <string name="prev_month">আগের মাস</string>
+    <string name="next_month">পরের মাস</string>
+    <string name="hijri_adjust">হিজরি তারিখ সমন্বয়</string>
+    <string name="hijri_adjust_hint">চাঁদ দেখার কারণে স্থানীয় তারিখ এক দিন আলাদা হতে পারে। স্থানীয় ঘোষণার সাথে মিলিয়ে নিন।</string>
+    <string name="days_offset">%1$s দিন</string>
+
+    <string name="notifications_title">নোটিফিকেশন</string>
+    <string name="settings_notifications_row">নোটিফিকেশন ও রিমাইন্ডার</string>
+    <string name="enable_notifications">নোটিফিকেশন চালু করুন</string>
+    <string name="prayer_notifications">নামাজের সময়</string>
+    <string name="remind_before">কখন জানাবে</string>
+    <string name="at_time">ঠিক সময়ে</string>
+    <string name="minutes_short">%1$s মিনিট আগে</string>
+    <string name="reminders_section">দৈনিক রিমাইন্ডার</string>
+    <string name="reminder_quran">কুরআন তিলাওয়াত</string>
+    <string name="reminder_morning">সকালের যিকির</string>
+    <string name="reminder_evening">সন্ধ্যার যিকির</string>
+    <string name="notif_blocked">সিস্টেম সেটিংসে নোটিফিকেশন বন্ধ করা আছে।</string>
+    <string name="notif_exact_needed">সময়মতো নোটিফিকেশন পেতে \"অ্যালার্ম ও রিমাইন্ডার\" অনুমতি দিন।</string>
+    <string name="open_settings">সেটিংস খুলুন</string>
+    <string name="ok">ঠিক আছে</string>
+    <string name="cancel">বাতিল</string>
+    <string name="channel_prayer">নামাজের সময়</string>
+    <string name="channel_reminders">রিমাইন্ডার</string>
+    <string name="notif_prayer_now">%1$s-এর সময় হয়েছে</string>
+    <string name="notif_prayer_soon">%1$s-এর আর %2$s মিনিট বাকি</string>
+    <string name="notif_quran">আজকের কুরআন তিলাওয়াতের সময়</string>
+    <string name="notif_morning">সকালের যিকিরের সময়</string>
+    <string name="notif_evening">সন্ধ্যার যিকিরের সময়</string>
+
+    <string name="onb_tagline">প্রতিদিন আল্লাহর আরও কাছে</string>
+    <string name="onb_feature_prayer">নামাজ ঠিক সময়ে</string>
+    <string name="onb_feature_quran">সহজে কুরআন পাঠ</string>
+    <string name="onb_feature_deeds">নিয়মিত আমল</string>
+    <string name="onb_start">শুরু করুন</string>
+</resources>

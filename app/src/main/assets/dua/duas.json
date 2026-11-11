@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "id": "morning-evening",
+      "title": { "en": "Morning & Evening", "bn": "সকাল ও সন্ধ্যা" },
+      "items": []
+    },
+    {
+      "id": "after-prayer",
+      "title": { "en": "After Prayer", "bn": "নামাজের পরে" },
+      "items": []
+    },
+    {
+      "id": "daily-duas",
+      "title": { "en": "Daily Duas", "bn": "দৈনন্দিন দোয়া" },
+      "items": []
+    }
+  ]
+}

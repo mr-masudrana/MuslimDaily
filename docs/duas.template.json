@@ -1,0 +1,19 @@
+{
+  "categories": [
+    {
+      "id": "daily-duas",
+      "title": { "en": "Daily Duas", "bn": "দৈনন্দিন দোয়া" },
+      "items": [
+        {
+          "id": "example-dua-1",
+          "title": { "en": "Example title", "bn": "উদাহরণ শিরোনাম" },
+          "arabic": "REPLACE_WITH_VERIFIED_ARABIC",
+          "transliteration": { "en": "REPLACE_OR_REMOVE", "bn": "REPLACE_OR_REMOVE" },
+          "translation": { "en": "REPLACE_WITH_VERIFIED_TRANSLATION", "bn": "REPLACE_WITH_VERIFIED_TRANSLATION" },
+          "reference": "REPLACE_WITH_SOURCE (book, number)",
+          "repeat": 1
+        }
+      ]
+    }
+  ]
+}
